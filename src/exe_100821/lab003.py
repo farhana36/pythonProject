@@ -13,4 +13,7 @@ print("Hello")
 #print(sum) == sum-1
 
 a,b,c = 45,65,12
-print(a,b,c,sep=("_"))
+print(a,b,c,sep="|")
+#result = max(3,5)
+#print(result)
+
